@@ -1,0 +1,16 @@
+20250108	12:54:57	fd12ca56-94a7-43be-949b-ab8f750549f3	GET	undefined	/
+20250108	12:54:57	d3930447-6ca8-48da-b6fb-518274524cd8	GET	undefined	/css/style.css
+20250108	12:57:31	31624319-ccf3-46c6-a306-5a9a4be00bcc	GET	undefined	/
+20250108	12:57:31	162adf3e-2b99-47ad-8169-4c3090866149	GET	undefined	/css/style.css
+20250108	13:01:51	0ede6004-21dc-4583-ab06-c588cdc9bf92	OPTIONS	https://www.google.com	/
+20250108	13:01:51	d81cae52-2d23-495d-9f11-118bdf3accb3	GET	https://www.google.com	/
+20250108	13:10:20	72cce6f7-1a7f-486c-9553-2f3b0cfe4565	GET	undefined	/
+20250108	13:11:05	da816eec-7eec-48fa-a54a-0cacf6c9a66b	GET	undefined	/
+20250108	13:11:05	0139e546-efe2-43e1-a8d1-9cd71f82bb6c	GET	undefined	/css/style.css
+20250108	13:15:28	5fda3d86-2115-4234-9744-51425e0e8a86	GET	undefined	/
+20250108	13:16:18	73819cf8-4659-4b0c-9ec4-ac0a2df24e22	GET	undefined	/
+20250108	13:16:18	e69e5aae-6c96-478e-8eca-7f5ce0d05bed	GET	undefined	/css/style.css
+20250108	13:17:52	221551c9-7878-4205-ad0a-983ff9d2d144	GET	undefined	/dave
+20250108	13:17:52	365a57f7-13f7-4caa-b322-5a6ff300093b	GET	undefined	/css/style.css
+20250108	13:20:34	2a0a67ac-8c03-4449-8e71-186fb648213a	GET	undefined	/dave
+20250108	13:20:34	7acfb383-f5a0-4dd0-8c01-39c8772975f5	GET	undefined	/css/style.css
